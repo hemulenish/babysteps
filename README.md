@@ -1,2 +1,3 @@
 # babysteps
-Just figuring it out
+#Just figuring it out
+#I'm pretty green
